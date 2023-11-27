@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ajintgroup.io.iml" filepath="$PROJECT_DIR$/.idea/ajintgroup.io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/windtail.iml" filepath="$PROJECT_DIR$/.idea/windtail.iml" />
     </modules>
   </component>
 </project>
