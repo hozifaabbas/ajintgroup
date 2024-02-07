@@ -1,0 +1,4 @@
+<div class="s:w-[375px] s:h-[240px] xl:w-[49.375vw] xl:h-[51.042vw] xl:float-left  bg-black mt-[10.554vw] pt-[5.556vw] xl:pl-[3.472vw] s:text-center xl:text-left">
+    <h1 class="s:text-[32px] text-white xl:text-[3.472vw] leading-normal font-black pb-[4.167vw] "><span class="underline decoration-underline_color_two underline-[0.55555vw] ">WHAT</span> WE DO</h1>
+    <p class="s:text-[20px] s:w-[327px] s:ml-[5%] xl:w-[36.701vw] xl:ml-[0px] text-white xl:text-[2.778vw] font-bold leading-normal"><span class="underline decoration-underline_color_three underline-[0.55555vw] text-center ">AJ</span> take steps towards the Environment, by collecting 300 tons of clothes daily and classify it to achieve sustainability</p>
+</div>

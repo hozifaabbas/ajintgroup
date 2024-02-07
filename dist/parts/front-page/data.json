@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "",
+    "description": "COLLECTING USED CLOTHES used clothing in all countries of the world to reduce the risk of textile waste affecting",
+    "category": "wwd",
+    "Image": "../uploads/clothes_img_one.svg"
+  },
+  {
+    "id": 2,
+    "title": "",
+    "description": "CLASSIFYING used clothing in all countries of the world to reduce the risk of textile waste affecting.",
+    "category": "wwd",
+    "Image": "../uploads/clothes_img_two.svg"
+  },
+  {
+    "id": 3,
+    "title": "",
+    "description": "ACHIEVING SUSTAINABILITY used clothing in all countries of the world to reduce the risk of textile waste affecting.",
+    "category": "wwd",
+    "Image": "../uploads/clothes_img_three.svg"
+  },
+  {
+    "id": 4,
+    "title": "mango",
+    "description": "COLLECTING USED CLOTHES used clothing in all countries of the world to reduce the risk of textile waste affecting",
+    "category": "wws",
+    "Image": "../uploads/clothes_img_one.svg"
+  },
+  {
+    "id": 5,
+    "title": "apple",
+    "description": "CLASSIFYING used clothing in all countries of the world to reduce the risk of textile waste affecting.",
+    "category": "wws",
+    "Image": "../uploads/clothes_img_one.svg"
+  },
+  {
+    "id": 6,
+    "title": "watermelon",
+    "description": "ACHIEVING SUSTAINABILITY used clothing in all countries of the world to reduce the risk of textile waste affecting.",
+    "category": "wws",
+    "Image": "../uploads/clothes_img_one.svg"
+  }
+]

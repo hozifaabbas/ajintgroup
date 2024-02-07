@@ -1,0 +1,45 @@
+
+@font-face {
+    font-family: satoshi;
+    src: url(uploads/satoshi_fontfamily/Satoshi_Complete/Satoshi-Variable.ttf);
+}
+body{
+    font-family: satoshi;
+}
+/* scroller style control start  */
+::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+}
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px #b47945a1;
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+    background: #BC6C25;
+    border-radius: 10px;
+}
+div#img-ror-3 {
+    display: none;
+}
+/* scroller style control end  */
+
+/* accordion start*/
+.slide .action span{
+    transform: rotate(270deg);
+}
+.opened_li_container_eight {
+    width:71.59vw;
+}
+.opened_li_container_eight a.action{
+    display: none;
+}
+/* accordion end */
+/*footer start*/
+.social_icons{
+    display: grid;
+    grid-template-columns: repeat(5, 2.5vw);
+    margin-top:2.708vw ;
+}
+
+/* footer end */
